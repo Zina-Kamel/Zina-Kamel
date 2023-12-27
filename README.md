@@ -2,7 +2,7 @@
 
 I am a senior computer science student at the Lebanese American University, minoring in Data Analytics. I am also the recipient of the MEPI Tomorrow's Leaders Scholarship. Previously, I participated in the MLH Fellowship where I worked with Facebook Research Team on LabGraph. I have also interned at Amazon during the summer of 2023 as part of the AWS Organisation. 
 
-Apart from my industrial experience, my research interest centers around Computer Vision, Graphics, and Robotics, with my most recent papers presented at the 15th International Conference on Intelligent Human-Computer Interaction (IHCI) and ArabicNLP co-located with EMNLP2023. 
+Apart from my industrial experience, my research interest centers around Computer Vision, Graphics, and Robotics. I have co-authored papers presented at the 15th International Conference on Intelligent Human-Computer Interaction (IHCI) and ArabicNLP co-located with EMNLP2023 ([HICMA Project](https://hicma.net/)). 
 
 More details about my experience and education can be found on my [Linkedin](https://www.linkedin.com/in/zina-kamel/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" height="20px"/> 
 
