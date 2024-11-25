@@ -1,8 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="25px" height="25px">, I am Zina Kamel!
 
-I am a senior computer science student at the Lebanese American University, minoring in Data Analytics. I am also the recipient of the MEPI Tomorrow's Leaders Scholarship. Previously, I participated in the MLH Fellowship where I worked with Facebook Research Team on LabGraph. I have also interned at Amazon during the summer of 2023 as part of the AWS Organisation. 
+I am a Master's computer science student at McGill University/Mila Quebec AI Institute. I am also the recipient of the [McCall MacBain Scholarship](https://mccallmacbainscholars.org/). Before joining McGill, I did my undergraduate studies in computer science, with a minor in data analytics at the Lebanese American University under the [Tomorrow's Leaders scholarship program](https://www.tomorrowsleadersprogram.org/). Previously, I interned at Amazon during the summer of 2023 as part of the AWS Organisation. I also participated in the MLH Fellowship where I worked with Facebook Research Team on LabGraph. 
 
-Apart from my industrial experience, my research interest centers around Computer Vision, Graphics, and Robotics. I have co-authored papers presented at the 15th International Conference on Intelligent Human-Computer Interaction (IHCI) and ArabicNLP conference co-located with EMNLP2023 ([HICMA Project](https://hicma.net/)). 
+Apart from my industrial experience, my research interest centers at the intersection of Computer Vision, Robotics, and LLMs. I have co-authored papers presented at the 15th International Conference on Intelligent Human-Computer Interaction (IHCI) and ArabicNLP conference co-located with EMNLP2023 ([HICMA Project](https://hicma.net/)). 
 
 More details about my experience and education can be found on my [Linkedin](https://www.linkedin.com/in/zina-kamel/) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25px" height="20px"/> 
 
